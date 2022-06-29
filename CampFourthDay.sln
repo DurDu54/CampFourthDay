@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CampFourthDay", "CampFourthDay\CampFourthDay.csproj", "{463F7ADF-FDD8-48C7-9695-C1F600B06474}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Colections", "Colections\Colections.csproj", "{44EC8AB7-801F-4078-8EA5-E1B534F491AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{463F7ADF-FDD8-48C7-9695-C1F600B06474}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{463F7ADF-FDD8-48C7-9695-C1F600B06474}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{463F7ADF-FDD8-48C7-9695-C1F600B06474}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{463F7ADF-FDD8-48C7-9695-C1F600B06474}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44EC8AB7-801F-4078-8EA5-E1B534F491AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44EC8AB7-801F-4078-8EA5-E1B534F491AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44EC8AB7-801F-4078-8EA5-E1B534F491AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44EC8AB7-801F-4078-8EA5-E1B534F491AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F8603B25-D2F4-4785-8D71-AAEA39ED863C}
+	EndGlobalSection
+EndGlobal
