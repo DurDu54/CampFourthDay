@@ -21,7 +21,8 @@
             };
             ProductManager productManager = new ProductManager();
             productManager.Add(product1);
-            productManager.update(product1);  
+            productManager.update(product1);
+            Console.WriteLine("");
 
         }
     }
